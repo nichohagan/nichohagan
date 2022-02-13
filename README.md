@@ -5,4 +5,4 @@ I am specialized in Data Science, Data Analytics, Machine Learning, Deep Learnin
 Python programming, R, Data Mining, Data Governance, Entity Resolution, and Database Systems. I am currently 
 pursuing my PhD in Computer and Information Sciences.
 
-This site serves as the repository/portfolio of my projects. You can read more about me by visiting my LinkedIn page.
+This site serves as a repository/portfolio of my projects. You can read more about me by visiting my LinkedIn page.
